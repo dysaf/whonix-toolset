@@ -16,10 +16,11 @@ cd whonix-toolset
 
 2️⃣ Run the installation script:
 
-chmod +x install_whonix_toolset.sh
-./install_whonix_toolset.sh
+chmod +x whonix-toolset.sh
+./whonix-toolset.sh
 
 3️⃣ Restart Whonix after installation:
+sudo reboot
 
 sudo reboot
 
