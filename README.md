@@ -11,7 +11,7 @@ Whonix Toolset – OSINT, Privacy & Secure Pentesting
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/yourusername/whonix-toolset.git
+git clone https://github.com/dysaf/whonix-toolset.git
 cd whonix-toolset
 
 2️⃣ Run the installation script:
